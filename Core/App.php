@@ -36,6 +36,7 @@ class App{
 
 				case 'book':
 					echo 'BookController';
+					echo '<br>Viet tiep cac controller va action giong nhu user';
 				break;
 
 				default:
